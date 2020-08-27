@@ -1,4 +1,4 @@
-# React Todo application.
+# Down all comics images from trunoff.us .
 
 ## How To install or use
 1. Clone This Project `git clone https://github.com/jhhemal/turnoff-commics-downloader.git`
